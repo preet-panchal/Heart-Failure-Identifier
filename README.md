@@ -24,3 +24,6 @@ For our project, we are studying a binary classification problem, where we try t
 
 ## Objective.
 The aim of the project would be to develop a machine learning model that can generalize well on unseen data and achieve a high accuracy rate on the test set.
+
+## Presentation.
+https://www.youtube.com/watch?v=ZZik9lvqQdo
